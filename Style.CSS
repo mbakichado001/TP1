@@ -1,0 +1,84 @@
+html {
+    background-color: rgb(0, 238, 255);
+    
+}
+
+body {
+    width: 70%;
+    min-width: 800px;
+    margin: 0 auto;
+  }
+
+
+h1{
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 60px;
+   
+}
+
+main {
+ background-color: rgb(226, 223, 223);
+
+}
+
+h2{
+  padding: 30pt;
+  font-size: 25px;
+  text-align: center;
+}
+
+.tegra .grid{
+  display: grid;
+  grid-template-columns: 50% 30%;
+  grid-column-gap: 15px;
+  margin: 20px;
+  padding: 5px;
+ }
+
+ form input{
+
+  padding: 5px;
+
+ }
+ form label{
+text-align: right;
+border-spacing: 2rem;
+ }
+ .moi{
+  flex: 10px;
+ 
+ }
+ select{
+  width: 30%;
+  padding: 10px;
+ }
+
+ 
+.button input{
+    
+    width: 10%;
+    margin: 15px;
+    padding: 15px;
+    background-color: rgb(92, 92, 240);
+    color: white;
+  font-size: 20px;
+    
+}
+.sept input {
+  padding: 20px;
+}
+.button p{
+  text-align: center;
+  
+}
+.cinq label{
+text-align: none;
+}
+div .moi{
+  margin: 0;
+}
+div .moi .checkbox{
+  margin: 0;
+}
+
